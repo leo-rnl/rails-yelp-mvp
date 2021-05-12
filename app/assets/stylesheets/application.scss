@@ -11,3 +11,21 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+body {
+  background-color: rgb(236, 236, 236);
+}
+
+ul {
+  list-style: none;
+  li {
+    margin-bottom: 1em;
+    background-color: #fff;
+    padding: 1em;
+    border: 1px solid lightgrey;
+  }
+}
+
+.btn-primary {
+  color: #fff;
+}
